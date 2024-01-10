@@ -38,16 +38,17 @@ La organización del proyecto sigue una estructura cuidadosamente diseñada con 
 ├── .gitignore
 ├── README.md
 ```
-
 ## Demostración
 
-Para visualizar la página web en acción, puedes visitar [este enlace](![php](https://github.com/DannyCrisostomo/potencia-tus-ventas/blob/main/potencia%20tus%20ventas.png)).
+Para visualizar la página web en acción, puedes visitar 
+![php](![php](https://github.com/DannyCrisostomo/potencia-tus-ventas/blob/main/potencia%20tus%20ventas.png)
+
 
 ## Cómo Utilizar
 
 1. Clona este repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/tu-usuario/proyecto-web-profesional.git
+    git clone https://github.com/DannyCrisostomo/potencia-tus-ventas.git
     ```
 
 2. Abre el archivo `index.html` en tu navegador preferido.
