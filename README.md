@@ -7,7 +7,7 @@ Bienvenido al repositorio que alberga el código fuente de mi página web profes
 Puedes acceder a una vista previa en vivo del prototipo [aquí](https://radiant-otter-54ab8e.netlify.app/).
 
 
-(![php](https://github.com/DannyCrisostomo/potencia-tus-ventas/blob/main/potencia%20tus%20ventas.png)
+![php](https://github.com/DannyCrisostomo/potencia-tus-ventas/blob/main/potencia%20tus%20ventas.png)
 
 
 
