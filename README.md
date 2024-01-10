@@ -2,6 +2,15 @@
 
 Bienvenido al repositorio que alberga el código fuente de mi página web profesional. Esta plataforma está cuidadosamente diseñada para resaltar mis productos, servicios y portafolio, ofreciendo además una forma sencilla de establecer contacto.
 
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://radiant-otter-54ab8e.netlify.app/).
+
+
+![php](![php](https://github.com/DannyCrisostomo/potencia-tus-ventas/blob/main/potencia%20tus%20ventas.png)
+
+
+
 ## Contenido
 
 - [Estructura del Proyecto](#estructura-del-proyecto)
@@ -38,11 +47,6 @@ La organización del proyecto sigue una estructura cuidadosamente diseñada con 
 ├── .gitignore
 ├── README.md
 ```
-## Demostración
-
-Para visualizar la página web en acción, puedes visitar 
-![php](![php](https://github.com/DannyCrisostomo/potencia-tus-ventas/blob/main/potencia%20tus%20ventas.png)
-
 
 ## Cómo Utilizar
 
