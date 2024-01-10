@@ -9,7 +9,6 @@ Bienvenido al repositorio que alberga el código fuente de mi página web profes
 - [Cómo Utilizar](#cómo-utilizar)
 - [Características Principales](#características-principales)
 - [Contacto](#contacto)
-- [Licencia](#licencia)
 
 ## Estructura del Proyecto
 
@@ -63,10 +62,6 @@ Para visualizar la página web en acción, puedes visitar [este enlace](![php](h
 
 Para cualquier pregunta o colaboración, no dudes en contactarme:
 
-- **Correo Electrónico:** tu@email.com
-- **LinkedIn:** [Tu Nombre en LinkedIn](#)
-- **Sitio Web:** [TuSitioWeb.com](#)
+- **Correo Electrónico:** dannyvidalcrisostomocuri@email.com
+- **LinkedIn:** [DannyCrisostomo](www.linkedin.com/in/danny-crisostomo)
 
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](LICENSE).
